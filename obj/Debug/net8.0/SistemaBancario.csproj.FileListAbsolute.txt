@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\bin\Debug\net8.0\SistemaBancario.exe
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\bin\Debug\net8.0\SistemaBancario.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\bin\Debug\net8.0\SistemaBancario.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\bin\Debug\net8.0\SistemaBancario.dll
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\bin\Debug\net8.0\SistemaBancario.pdb
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\obj\Debug\net8.0\SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\obj\Debug\net8.0\SistemaBancario.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\obj\Debug\net8.0\SistemaBancario.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\obj\Debug\net8.0\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\obj\Debug\net8.0\SistemaBancario.dll
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\obj\Debug\net8.0\refint\SistemaBancario.dll
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\obj\Debug\net8.0\SistemaBancario.pdb
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\obj\Debug\net8.0\SistemaBancario.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\novoprojetoc#\SistemaBancario\obj\Debug\net8.0\ref\SistemaBancario.dll
