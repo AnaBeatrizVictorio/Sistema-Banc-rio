@@ -2,10 +2,10 @@ using System;
 
 namespace SistemaBancario
 {
-    /// <summary>
+
     /// Classe ContaCorrente que demonstra HERANÇA
     /// Herda de Conta e implementa comportamentos específicos
-    /// </summary>
+
     public class ContaCorrente : Conta
     {
         // Campos privados específicos da conta corrente
