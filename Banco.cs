@@ -4,10 +4,10 @@ using System.Linq;
 
 namespace SistemaBancario
 {
-    /// <summary>
+    
     /// Classe Banco que gerencia todas as contas
     /// Demonstra ENCAPSULAMENTO e uso de coleções
-    /// </summary>
+    
     public class Banco
     {
         // Campo privado para armazenar as contas - ENCAPSULAMENTO
