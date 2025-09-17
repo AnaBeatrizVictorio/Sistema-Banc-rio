@@ -3,10 +3,10 @@ using System.Collections.Generic;
 
 namespace SistemaBancario
 {
-    /// <summary>
+
     /// Classe abstrata Conta que demonstra ABSTRAÇÃO e ENCAPSULAMENTO
     /// Define o comportamento comum para todos os tipos de conta
-    /// </summary>
+
     public abstract class Conta : ITransacao
     {
         // Campos privados - ENCAPSULAMENTO
