@@ -2,10 +2,10 @@ using System;
 
 namespace SistemaBancario
 {
-    /// <summary>
+
     /// Classe Cliente que demonstra ENCAPSULAMENTO
     /// Os dados são protegidos e acessados apenas através de propriedades
-    /// </summary>
+    
     public class Cliente
     {
         // Campos privados - ENCAPSULAMENTO
